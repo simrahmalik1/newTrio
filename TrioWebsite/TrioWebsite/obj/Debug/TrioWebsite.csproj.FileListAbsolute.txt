@@ -1,0 +1,10 @@
+C:\Users\itlabs\source\repos\TrioWebsite\TrioWebsite\bin\Debug\TrioWebsite.exe.config
+C:\Users\itlabs\source\repos\TrioWebsite\TrioWebsite\bin\Debug\TrioWebsite.exe
+C:\Users\itlabs\source\repos\TrioWebsite\TrioWebsite\bin\Debug\TrioWebsite.pdb
+C:\Users\itlabs\source\repos\TrioWebsite\TrioWebsite\obj\Debug\TrioWebsite.csprojAssemblyReference.cache
+C:\Users\itlabs\source\repos\TrioWebsite\TrioWebsite\obj\Debug\TrioWebsite.Form1.resources
+C:\Users\itlabs\source\repos\TrioWebsite\TrioWebsite\obj\Debug\TrioWebsite.Properties.Resources.resources
+C:\Users\itlabs\source\repos\TrioWebsite\TrioWebsite\obj\Debug\TrioWebsite.csproj.GenerateResource.cache
+C:\Users\itlabs\source\repos\TrioWebsite\TrioWebsite\obj\Debug\TrioWebsite.csproj.CoreCompileInputs.cache
+C:\Users\itlabs\source\repos\TrioWebsite\TrioWebsite\obj\Debug\TrioWebsite.exe
+C:\Users\itlabs\source\repos\TrioWebsite\TrioWebsite\obj\Debug\TrioWebsite.pdb
